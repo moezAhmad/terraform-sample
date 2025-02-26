@@ -45,7 +45,7 @@ No modules.
 | <a name="input_github_core_team_name"></a> [github\_core\_team\_name](#input\_github\_core\_team\_name) | Name of the GitHub core team. | `string` | `"avm-core-team-technical-terraform"` | no |
 | <a name="input_github_owner_team_name"></a> [github\_owner\_team\_name](#input\_github\_owner\_team\_name) | Name of the GitHub owner team. | `string` | n/a | yes |
 | <a name="input_github_repository_environment_name"></a> [github\_repository\_environment\_name](#input\_github\_repository\_environment\_name) | Branch of the GitHub repository. | `string` | `"test"` | no |
-| <a name="input_github_repository_name"></a> [github\_repository\_nameansdkjabsdjkbajhsbd\njhbasjhdbjahsbdjba\nsjhdjhabsjdbjhasdjhbasjhbdjhbasjhdbjhasbdjbasjhbdjhasjhdajhsdj jb asdkj](#input\_github\_repository\_name) | Name of the GitHub repository. | `string` | n/a | yes |
+| <a name="input_github_repository_name"></a> [github\_repository\_name](#input\_github\_repository\_name) | Name of the GitHub repository. | `string` | n/a | yes |
 | <a name="input_github_repository_owner"></a> [github\_repository\_owner](#input\_github\_repository\_owner) | Owner of the GitHub repositories. | `string` | `"Azure"` | no |
 | <a name="input_identity_resource_group_name"></a> [identity\_resource\_group\_name](#input\_identity\_resource\_group\_name) | Name of the resource group to create the identities in. | `string` | n/a | yes |
 | <a name="input_location"></a> [location](#input\_location) | Location of the resources. | `string` | `"eastus2"` | no |
