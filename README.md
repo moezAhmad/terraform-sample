@@ -42,7 +42,7 @@ No modules.
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_github_contributor_team_name"></a> [github\_contributor\_team\_name](#input\_github\_contributor\_team\_name) | Name of the GitHub owner team. | `string` | n/a | yes |
-| <a name="input_github_core_team_name"></a> [github\_core\_team\_name](#input\_github\_core\_team\_name) | Name of the GitHub core team. | `string` | `"avm-core-team-technical-terraform"` | no |
+| <a name="input_github_core_team_name"></a> [github\_core\_team\_name](#input\_github\_core\_team\_name) | Name of the GitHub core skdfkjdsnfkjsj jksdbf sdfbsdf sdfjsdf sdfhjsdf sdfhhsjdf sdfhjsdbf bhsdfbjhsd sdfhjskdf shdfjbsdf jhsdfbjh team. | `string` | `"avm-core-team-technical-terraform"` | no |
 | <a name="input_github_owner_team_name"></a> [github\_owner\_team\_name](#input\_github\_owner\_team\_name) | Name of the GitHub owner team. | `string` | n/a | yes |
 | <a name="input_github_repository_environment_name"></a> [github\_repository\_environment\_name](#input\_github\_repository\_environment\_name) | Branch of the GitHub repository. | `string` | `"test"` | no |
 | <a name="input_github_repository_name"></a> [github\_repository\_name](#input\_github\_repository\_name) | Name of the GitHub repository. | `string` | n/a | yes |
